@@ -1,6 +1,6 @@
 # Golang JWT API
 
-Este repositório contém um projeto desenvolvido para a disciplina de **Linguagem e Técnicas de Programação 2**, cursada no primeiro semestre de 2024. A aplicação consiste em um sistema de autenticação de usuários utilizando JWT em **Golang**.
+Este repositório contém um projeto desenvolvido no primeiro semestre de 2024. A aplicação consiste em um sistema de autenticação de usuários utilizando JWT em **Golang**.
 
 ## Tecnologias Utilizadas
 
